@@ -1,10 +1,6 @@
 //import kaboom from "../kaboom"
 //import nipplejs from "../nipplejs"
 
-kaboom({
-	background: [135, 62, 132],
-})
-
 let joystickManager = nipplejs.JoystickManager = nipplejs.create({
 
 	zone: document.getElementById('joystick-container'),
