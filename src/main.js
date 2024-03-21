@@ -1,5 +1,5 @@
-import kaboom from "../kaboom"
-import nipplejs from "../nipplejs"
+//import kaboom from "../kaboom"
+//import nipplejs from "../nipplejs"
 
 kaboom({
 	background: [135, 62, 132],
